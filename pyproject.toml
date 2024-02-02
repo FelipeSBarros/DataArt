@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "art"
+version = "0.1.0"
+description = "Curso do Alexandre Vilares sobre Py5 e arte visuais com programação"
+authors = ["Felipe Sodré <felipe.b4rros@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+py5 = {extras = ["extras"], version = "^0.10.0a0"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
