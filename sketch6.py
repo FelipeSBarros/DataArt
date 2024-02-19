@@ -20,5 +20,5 @@ def setup():
 
 
 # data.prcp
-py5.run_sketch()
+# py5.run_sketch()
 py5.save_frame(filename="sketch6_Posadas_prcp_2023.png")
