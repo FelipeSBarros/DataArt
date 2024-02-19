@@ -6,7 +6,7 @@ authors = ["Felipe Sodré <felipe.b4rros@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.10"
 py5 = {extras = ["extras"], version = "^0.10.0a0"}
 meteostat = "^1.6.7"
 
